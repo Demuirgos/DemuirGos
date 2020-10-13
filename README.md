@@ -36,4 +36,3 @@
 
 </p>
 - ⚡ Fun fact: I Follow the .Net Religion even tho I prefer C++
--->
