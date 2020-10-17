@@ -2,7 +2,7 @@
 # Ayman_Bouchareb
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuirGos&exclude_repo=FirstWebSite&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=python,visual basic .net" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuirGos&exclude_repo=FirstWebSite&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=python,visual basic .net,php" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=DemuirGos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="DemuirGos' GitHub Stats" />
 
