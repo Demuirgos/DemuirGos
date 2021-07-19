@@ -7,4 +7,10 @@
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=DemuirGos&theme=chalk&column=7&row=1&margin-w=5"/>
 
-### - ⚡ Fun fact: I Follow the .Net Religion even tho I prefer C++ & Unreal Engine
+### - ⚡ Fun fact: I Follow the .Net Religion, and the C family tradition and ML progression
+### - ⚡ Languages I use : 
+            [C++; C; C#; F#; Q#; TypeScript; VB.Net; Python; Powershell, Rust]
+### - ⚡ Technologies I use : 
+            [Blazor, Avalonia, Uno, Qt, UWP, WPF, ASP, Elmish, Bolero, Unreal]
+### - ⚡ Things I wanna Learn : 
+            [Qasm, Scala, Haskell, Ocaml, Wasm, Unity, MSIL, OpenGl, DirectX, Azure]
