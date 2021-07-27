@@ -13,4 +13,4 @@
 ### - ⚡ Technologies I use : 
             [Blazor, Avalonia, Uno, Qt, UWP, WPF, ASP, Elmish, Bolero, Unreal, ...]
 ### - ⚡ Things I wanna Learn : 
-            [Qasm, Haskell, Ocaml, Asm, Wasm, Unity, OpenGl, DirectX, Azure, ...]
+            [Qasm, Asm, Wasm, Haskell, Ocaml, Unity, OpenGl, DirectX, Azure, ...]
