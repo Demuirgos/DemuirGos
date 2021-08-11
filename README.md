@@ -9,8 +9,8 @@
 
 ### - ⚡ Fun fact: I Follow the .Net Religion, and the C family tradition and ML progression
 ### - ⚡ Languages I use : 
-            [C++; C; C#; F#; Q#; TypeScript; VB.Net; Python; Powershell, Rust, ...]
+            [C++; C; C#; F#; Q#; TypeScript; VB.Net; Python; Powershell, Rust,   ...]
 ### - ⚡ Technologies I use : 
-            [Blazor, Avalonia, Uno, Qt, UWP, WPF, ASP, Elmish, Bolero, Unreal, ...]
+            [Blazor, Avalonia, Uno, Qt, UWP, WPF, ASP, Elmish, Bolero, Unreal,   ...]
 ### - ⚡ Things I wanna Learn : 
-            [Qasm, Asm, Wasm, Haskell, Ocaml, Unity, OpenGl, DirectX, Azure, ...]
+            [F*, Lean, (Q|W)?asm, Haskell, Ocaml, Unity, OpenGl, DirectX, Azure, ...]
