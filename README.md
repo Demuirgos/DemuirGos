@@ -10,6 +10,6 @@
 ### - ⚡ Languages I use : 
             [C++; C; C#; F#; Typescript; VB.Net; Python; Powershell; Rust; ...]
 ### - ⚡ Technologies I use : 
-            [Blazor; Avalonia; Uno; MAUI; ASP.Net; Elmish; Bolero; Unreal; ...]
+            [Blazor; Avalonia; Uno; MAUI; ASP.Net; Elmish; Bolero; Unity; ...]
 ### - ⚡ Things I wanna Learn : 
             [F*; Lean; (Q|W)?asm; Haskell; Ocaml; Q#; OpenGl; DirectX; Azure, ...]
